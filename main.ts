@@ -1,6 +1,6 @@
 let cp = 0
-let ni = 3
-let nf = 13
+let ni = 2
+let nf = 8
 let i = ni + 1
 while (i < nf) {
     if (i % 2 == 0) {
